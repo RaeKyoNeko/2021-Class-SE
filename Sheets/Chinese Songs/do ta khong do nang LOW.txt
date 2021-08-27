@@ -1,0 +1,39 @@
+fa fa sol la do2 re2
+re2 re2 do2 la do2 sol
+sol sol la sib la do2
+do2 do2 la sol la fa
+
+fa fa sol la do2 re
+re fa la fa sol
+sol sol fa sol fa la
+fa sol fa sol sib la
+
+fa fa sol la do2 re2
+re2 re2 do2 la do2 sol
+sol sol la sib la do2
+do2 do2 la sol la fa
+
+fa fa sol la do2 re
+re re fa la fa sol
+fa sol fa sol fa re re
+
+Lan 2 ( lặp lại 3 lần từ đây đến cuối bài):
+
+fa fa sol la do2 re2
+re2 re2 do2 la do2 sol
+sol sol la sib la do2
+(do2) do2 la sol la fa
+
+fa fa sol la do2 re
+re re la la fa sol
+(fa) sol fa sol fa la
+fa sol fa sol sib la
+====> Lần 4 thổi từ đây
+fa fa sol la do2 re2
+re2 re2 do2 la do2 sol
+sol sol la sib la do2
+do2 do2 la sol la fa
+
+fa sol la do2 re
+re re la la fa sol
+fa sol fa sol fa fa/re re
